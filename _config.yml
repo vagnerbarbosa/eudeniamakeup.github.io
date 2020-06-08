@@ -1,9 +1,9 @@
-title:              Clean Test
+title:              @EudeniaMakeup
 email:              your-email@example.com
 description:        Uma página de Testes
 author:             Start Bootstrap
-baseurl:            "/teste.github.io"
-url:                "https://www.vagnerbarbosa.com/teste.github.io/"
+baseurl:            "/eudeniamakeup.github.io"
+url:                "https://www.vagnerbarbosa.com/eudeniamakeup.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
