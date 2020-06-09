@@ -1,5 +1,5 @@
 title:              Eudenia Makeup
-email:              your-email@example.com
+email:              
 description:        
 author:             Kelly Eudenia
 baseurl:            "/eudeniamakeup.github.io"
@@ -8,7 +8,7 @@ url:                "https://www.vagnerbarbosa.com/eudeniamakeup.github.io"
 # Social Profiles
 twitter_username:   
 github_username:    
-facebook_username:  eudeniamakeup
+facebook_username:  eudeniamakeup-102826581224859
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
